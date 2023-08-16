@@ -1,6 +1,6 @@
 # Intro
 
-Immersive 3D SolarSystem Model for in Apple Vision Pro
+Immersive 3D SolarSystem Model in Apple Vision Pro
 
 # Design
 
